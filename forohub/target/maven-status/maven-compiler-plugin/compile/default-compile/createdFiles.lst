@@ -1,0 +1,8 @@
+com\foroAlura\forohub\model\Usuario.class
+com\foroAlura\forohub\model\Categoria.class
+com\foroAlura\forohub\model\Curso.class
+com\foroAlura\forohub\model\Respuesta.class
+com\foroAlura\forohub\model\Status.class
+com\foroAlura\forohub\ForohubApplication.class
+com\foroAlura\forohub\model\Perfil.class
+com\foroAlura\forohub\model\Topico.class
